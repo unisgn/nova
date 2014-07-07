@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1843634-3522-4462-9471-7008faa68f00" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEN-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nova.iws" />
@@ -463,7 +462,7 @@
       <workItem from="1404742425995" duration="1521000" />
       <workItem from="1404746338379" duration="20000" />
       <workItem from="1404746479845" duration="635000" />
-      <workItem from="1404747119745" duration="702000" />
+      <workItem from="1404747119745" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1404650366428</created>
@@ -477,11 +476,15 @@
       <created>1404747731781</created>
       <updated>1404747731781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="m">
+      <created>1404747835290</created>
+      <updated>1404747835290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4924000" />
+    <option name="totallyTimeSpent" value="4940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
@@ -533,6 +536,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
