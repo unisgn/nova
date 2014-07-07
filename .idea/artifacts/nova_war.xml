@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nova:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nova-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="nova:war exploded" />
+    </root>
+  </artifact>
+</component>
