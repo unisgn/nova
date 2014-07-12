@@ -20,19 +20,19 @@
 
     <!-- 自动扫描所有注解该路径 -->
     <context:component-scan base-package="com.nova.domain, com.nova.service" />
-    <context:annotation-config/>
+    <context:annotation-config />
+    <tx:annotation-driven transaction-manager="transactionManager" />
     <jpa:repositories base-package="com.nova.repository" />
-
-    <tx:annotation-driven transaction-manager="transactionManager"/>
-
-    <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
-        <property name="entityManagerFactory" ref="entityManagerFactory" />
-    </bean>
-
 
 
     <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
-        <property name="persistenceUnitName" value="nova.jpa"></property>
+        <property name="persistenceUnitName" value="nova.jpa" />
+        <property name="jpaVendorAdapter">
+            <bean class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter">
+                <property name="generateDdl" value="true"/>
+                <property name="database" value="MYSQL"/>
+            </bean>
+        </property>
         <property name="packagesToScan">
             <list>
                 <value>com.nova.domain</value>
@@ -40,8 +40,14 @@
         </property>
     </bean>
 
+    <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
+        <property name="entityManagerFactory" ref="entityManagerFactory" />
+    </bean>
 
-    <!--<bean class="org.dozer.spring.DozerBeanMapperFactoryBean"/>-->
+
+    <bean class="org.dozer.spring.DozerBeanMapperFactoryBean"/>
+
+
     <!--<bean id="dataSource"-->
           <!--class="org.apache.commons.dbcp.BasicDataSource">-->
         <!--<property name="driverClassName" value="com.mysql.jdbc.Driver" />-->
@@ -49,6 +55,8 @@
         <!--<property name="username" value="root" />-->
         <!--<property name="password" value="admin" />-->
     <!--</bean>-->
+
+
     <!--<bean id="sessionFactory"-->
           <!--class="org.springframework.orm.hibernate4.LocalSessionFactoryBean" destroy-method="destroy">-->
         <!--<property name="dataSource" ref="dataSource" />-->
@@ -67,10 +75,14 @@
             <!--</list>-->
         <!--</property>-->
     <!--</bean>-->
+
+
     <!--<bean id="transactionManager" class="org.springframework.orm.hibernate4.HibernateTransactionManager">-->
         <!--<property name="sessionFactory" ref="sessionFactory" />-->
     <!--</bean>-->
+
     <!--<bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor" />-->
+
     <!--<bean id="improvedNamingStrategy" class="org.hibernate.cfg.ImprovedNamingStrategy" />-->
 
 </beans>
