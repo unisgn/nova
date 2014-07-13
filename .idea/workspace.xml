@@ -7,136 +7,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1843634-3522-4462-9471-7008faa68f00" name="Default" comment="m">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/AccountCard (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/AccountCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/AccountGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/accountHub/AccountHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/AccountJournal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/AccountJournal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/AccountJournalGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/AccountJournalItem (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/AccountJournalItem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/AccountJournalQuickReport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/AccountJournalQuickReportGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/AccountJournalQuickReportGrid2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Activity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/activityHub/ActivityHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/ActivityPanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Address.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/Alcedo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/Application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ApplicationManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Attachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/core/Beaux.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/Cassie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/chartOfAccount/ChartOfAccount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/ClipBoard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/express/CompanyGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Customer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/CustomerPanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/CustomerPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DatePeriodPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/nova/repository/DemoRepo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/ux/DropSearchField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DropdownSearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/EdgePanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/apps/editor/Editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/EmployeePicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/express/ExpressCompany.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/ExpressCompany.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/express/ExpressForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/ExpressForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/ExpressFormMessage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/factoryHub/FactoryHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/FinancialAccount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/FinancialAccount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/FinancialAccountTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/lib/FinancialAccountType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/express/FormGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/GeneralJournal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/GeneralJournalEntry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/GeneralJournalGrid (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/GeneralJournalGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/JournalCard (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/JournalCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/LiveSearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/widget/MathExpField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/ux/MathField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/messageHub/MessageHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/ModelCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/widget/ModelCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/ModelGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/ModelGridCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/ModelQuickCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Note.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/PanelWidget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartCategoryPanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartGridPanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartPropertySetPanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partner/Partner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/partner/Partner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/model/Partner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/partner/PartnerCard (copy).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/partner/PartnerCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/partner/PartnerGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/PartnerHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ProcessManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/purchaseHub/PurchaseHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/QuickAddVendor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/ResourceHandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/RootXWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/RootXWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/RootXWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/SaleHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/ux/SearchField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/widget/SearchField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/ShowDesktop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/SmartNumberField.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/storageHub/StorageHub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/Taskbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/ux/TreeCombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/TreeModelCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/VendorPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowArranger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/XServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partner/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/journal/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/partner/XWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/account_journals.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/account_types (another copy).json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/apps/account/account_types.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/accounts.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/beaux.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/core/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/general_journal_items.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/general_journals.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/locale/jeeper.lang.zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/core/override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/lib/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/partners.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/jeeper/data/partners2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/sefl.description.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/nova/web/DemoController.java" afterPath="$PROJECT_DIR$/src/main/java/com/nova/web/DemoCtrl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nova/domain/AbstractEntity.java" afterPath="$PROJECT_DIR$/src/main/java/com/nova/domain/AbstractEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nova/domain/Demo.java" afterPath="$PROJECT_DIR$/src/main/java/com/nova/domain/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nova/service/DemoMgr.java" afterPath="$PROJECT_DIR$/src/main/java/com/nova/service/DemoMgr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nova/service/impl/DemoMgrImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/nova/service/impl/DemoMgrImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" afterPath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_drools_drools_api_5_2_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_drools_drools_compiler_5_2_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_drools_drools_core_5_2_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_3_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbpm_jbpm_bpmn2_5_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbpm_jbpm_flow_5_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jbpm_jbpm_flow_builder_5_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mvel_mvel2_2_1_RC1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/accountHub/AccountHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/accountHub/AccountHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Activity.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Activity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/activityHub/ActivityHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/activityHub/ActivityHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/ActivityPanel.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/ActivityPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Address.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/Alcedo.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/Alcedo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/Application.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ApplicationManager.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ApplicationManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu (copy).js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu (copy).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/AppsMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Attachment.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Attachment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/core/Beaux.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/core/Beaux.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/Cassie.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/Cassie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/chartOfAccount/ChartOfAccount.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/chartOfAccount/ChartOfAccount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Customer.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/model/Customer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/CustomerPanel.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/CustomerPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/CustomerPicker.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/CustomerPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DatePeriodPicker.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DatePeriodPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DropdownSearch.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/DropdownSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/EdgePanel.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/EdgePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/apps/editor/Editor.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/apps/editor/Editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/EmployeePicker.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/EmployeePicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/factoryHub/FactoryHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/factoryHub/FactoryHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/LiveSearch.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/LiveSearch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginForm.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginForm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginManager.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/LoginManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/messageHub/MessageHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/messageHub/MessageHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Note.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/Note.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/PanelWidget.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/PanelWidget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partHub/PartHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/PartnerHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/PartnerHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ProcessManager.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/application/ProcessManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/purchaseHub/PurchaseHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/purchaseHub/PurchaseHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/QuickAddVendor.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/QuickAddVendor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/ResourceHandler.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/ResourceHandler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/RootXWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/RootXWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/RootXWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/login/RootXWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/RootXWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/RootXWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/SaleHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/SaleHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/widget/SearchField.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/widget/SearchField.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/ShowDesktop.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/ShowDesktop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/SmartNumberField.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/SmartNumberField.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/storageHub/StorageHub.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/storageHub/StorageHub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/Taskbar.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/panelWidget/Taskbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/VendorPicker.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/widget/VendorPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowArranger.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowArranger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowManager.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/WindowManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/XServer.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/xserver/XServer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/XWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/sys/desktop/lib/XWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/XWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/partnerHub/XWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/XWindow.js" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/usr/alcedo/apps/saleHub/XWindow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/beaux/beaux.css" afterPath="$PROJECT_DIR$/src/main/webapp/beaux/beaux.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nova.iml" afterPath="$PROJECT_DIR$/nova.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/nova_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/nova_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nova.iws" />
@@ -184,7 +120,6 @@
         <option value="$PROJECT_DIR$/src/test/java/JdbcTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/nova/web/DemoCtrlTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nova/service/DemoMgr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nova/service/impl/DemoMgrImpl.java" />
@@ -195,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nova/repository/DemoRepo.java" />
         <option value="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/beaux/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -214,8 +150,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1368" />
-    <option name="height" value="742" />
+    <option name="width" value="1922" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -245,13 +181,17 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="nova" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -370,7 +310,15 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beaux" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,14 +337,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -550,39 +490,9 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nova" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nova" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nova" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -948,7 +858,8 @@
       <workItem from="1405129816776" duration="4716000" />
       <workItem from="1405139200631" duration="4124000" />
       <workItem from="1405174147395" duration="16337000" />
-      <workItem from="1405234354380" duration="1903000" />
+      <workItem from="1405234354380" duration="3813000" />
+      <workItem from="1405249899913" duration="2278000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1404650366428</created>
@@ -982,14 +893,18 @@
       <created>1405175452660</created>
       <updated>1405175452660</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="m">
+      <created>1405239418986</created>
+      <updated>1405239418986</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45547000" />
+    <option name="totallyTimeSpent" value="49735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
+    <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1012,7 +927,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25183016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1025,40 +940,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39876354" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1090,22 +971,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="435">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.4.RELEASE/spring-security-core-3.1.4.RELEASE-sources.jar!/org/springframework/security/core/SpringSecurityCoreVersion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="825">
@@ -1160,13 +1025,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
@@ -1222,14 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14516129" vertical-offset="0" max-vertical-offset="620">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14516129" vertical-offset="0" max-vertical-offset="5445">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1367,19 +1224,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nova/web/DemoCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nova/service/impl/DemoMgrImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1408,7 +1256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1440,7 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45967743" vertical-offset="0" max-vertical-offset="620">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1452,18 +1298,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/beaux/beaux.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/beaux/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25167784" vertical-offset="0" max-vertical-offset="596">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beaux/beaux.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6716738" vertical-offset="0" max-vertical-offset="5880">
+          <caret line="166" column="41" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beaux/core/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06437768" vertical-offset="0" max-vertical-offset="932">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beaux/core/Beaux.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nova/web/DemoCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16094421" vertical-offset="0" max-vertical-offset="932">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
       </provider>

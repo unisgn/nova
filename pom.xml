@@ -26,6 +26,33 @@
         <jbpm.version>6.0.1.Final</jbpm.version>
     </properties>
 
+
+    <repositories>
+
+        <!-- spring framework repository -->
+        <repository>
+            <id>springsource-repo</id>
+            <name>SpringSource Repository</name>
+            <url>http://repo.springsource.org/release</url>
+        </repository>
+
+        <!--  jboss public repository (for jBPM) -->
+        <repository>
+            <id>jboss-public-repository-group</id>
+            <name>JBoss Public Maven Repository Group</name>
+            <url>https://repository.jboss.org/nexus/content/groups/public/</url>
+            <layout>default</layout>
+            <releases>
+                <enabled>true</enabled>
+                <updatePolicy>never</updatePolicy>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+
+    </repositories>
+
     <dependencies>
 
         <!-- springframework -->
@@ -141,8 +168,16 @@
             <version>0.9.1.2</version>
         </dependency>
 
-        <!-- jBPM  -->
+        <!--&lt;!&ndash; jBPM  &ndash;&gt;-->
+        <!--<dependency>-->
 
+            <!--<groupId>org.jbpm</groupId>-->
+
+            <!--<artifactId>jbpm-bpmn2</artifactId>-->
+
+            <!--<version>${jbpm.version}</version>-->
+
+        <!--</dependency>-->
 
 
         <!-- MySql JDBC driver -->
@@ -347,12 +382,6 @@
             </plugin>
         </plugins>
     </build>
-    <repositories>
-        <repository>
-            <id>springsource-repo</id>
-            <name>SpringSource Repository</name>
-            <url>http://repo.springsource.org/release</url>
-        </repository>
-    </repositories>
+
     
 </project>
