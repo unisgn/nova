@@ -1,0 +1,18 @@
+{
+    "success":true,
+    "data":[{
+        "id":1,
+        "version":0,
+        "active":true,
+        "journalDate":"2013-07-05",
+        "number":"NUM#1",
+        "memo":"MEMO1"
+    }, {
+        "id":2,
+        "version":0,
+        "active":true,
+        "journalDate":"2013-11-15",
+        "number":"NO2",
+        "memo":"MEMO2"
+    }]
+}

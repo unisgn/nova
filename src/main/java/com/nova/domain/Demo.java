@@ -10,4 +10,14 @@ import javax.persistence.*;
 @Entity
 public class Demo extends AbstractEntity<Integer> {
     private String name;
+
+    public Demo(){}
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }

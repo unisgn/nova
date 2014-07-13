@@ -1,0 +1,10 @@
+.rootXWindow {
+    border: none;
+    
+}
+
+p.x-grid-cell-inner {
+    border:1px;
+    margin:1px;
+    padding:1px;
+}

@@ -1,0 +1,42 @@
+{ 
+    "success": "true",
+    "data": [{ 
+        "id": 1, 
+        "version": 0, 
+        "active": true, 
+        "number":"NO#1", 
+        "code":"",
+        "name": "VENDOR#1", 
+        "searchKey":"", 
+        "description":"", 
+        "roleCustomer":false, 
+        "roleVendor":true,
+        "roleEmployee":false 
+    }, { 
+        "id": 2, 
+        "version": 0, 
+        "active": true, 
+        "number":"NO#2", 
+        "code":"",
+        "name": "EMPLOYEE#1", 
+        "searchKey":"", 
+        "description":"", 
+        "roleCustomer":false, 
+        "roleVendor":false,
+        "roleEmployee":true 
+    }, { 
+        "id": 3, 
+        "version": 0, 
+        "active": true, 
+        "number":"NO#3", 
+        "code":"",
+        "name":"CUSTOMER#1", 
+        "searchKey":"", 
+        "description":"", 
+        "roleCustomer":true, 
+        "roleVendor":false,
+        "roleEmployee":false 
+    }],
+    
+    "message": ""
+}

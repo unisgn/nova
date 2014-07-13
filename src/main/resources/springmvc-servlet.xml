@@ -10,7 +10,6 @@
 		                   http://www.springframework.org/schema/util    http://www.springframework.org/schema/util/spring-util-3.2.xsd
 		                   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd">
 
-    <!-- 启动Spring MVC的注解功能，完成请求和注解POJO的映射  -->
 
     <mvc:resources location="/beaux/**" mapping="/beaux/**"/>
     <mvc:resources location="/extjs/**" mapping="/extjs/**"/>

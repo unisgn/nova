@@ -1,0 +1,24 @@
+[
+    { "value": "CASH", "display":"现金" },
+    { "value": "ACCOUNT_RECEIVABLE", "display":"应收账款" },
+    { "value": "OTHER_CURRENT_ASSET", "display":"其它流动资产"},
+    { "value":"FIXED_ASSET", "display":"固定资产" },
+    { "value":"OTHER_LONGTERM_ASSET", "display":"其它长期资产"},
+    { "value": "OTHER_ASSET", "display": "其它资产" }, 
+    
+
+    { "value": "ACCOUNT_PAYABLE", "display":"应付账款" },
+    { "value": "OTHER_CURRENT_LIABILITY", "display":"其它流动负债" },   
+    { "value": "OTHER_LONGTERM_LIABILITY", "display":"其它长期负债" }, 
+    { "value": "OTHER_LIABILITY", "display":"其它负债" },
+    
+
+ 
+    { "value": "INCOME", "display":"收入" },
+    { "value":"COG", "display":"材料成本" },
+    { "value":"EXPENSE", "display":"花费" },
+    { "value": "RETAINED_EARNINGS", "display": "留存收益" },
+    { "value": "COMMON_STOCK", "display": "股权" },
+    { "value": "OTHER_EQUITY", "display": "其它权益" },
+
+]

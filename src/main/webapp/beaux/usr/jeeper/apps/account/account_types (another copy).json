@@ -1,0 +1,12 @@
+[
+    { "value": "ASSET", "display": 1 }, 
+    { "value": "EQUITY", "display": 2 }, 
+    { "value": "LIABILITY", "display":3 },
+    { "value": "CASH", "display":10 },
+    { "value": "ACCOUNT_RECEIVABLE", "display":4 },
+    { "value": "ACCOUNT_PAYABLE", "display":5 },
+    { "value": "INCOME", "display":6 },
+    { "value":"EXPENSE", "display":7 },
+    { "value":"COG", "display":8 },
+    { "value":"FIXED_ASSET", "display":9 }
+]

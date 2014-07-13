@@ -1,0 +1,112 @@
+{
+    "success":"true",
+    "data":[{
+        "id":1,
+        "version":0,
+        "active":"true",
+        "journalDate": "2013/07/13",
+        "number":"J01",
+        "memo":"JOUR#01",
+        "items":[{
+            "id":1,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#1,ITEM#1",
+            "debit":500,
+            "credit":0,
+            "partner":{
+                "id":1,
+                "name":"PART#1"
+            },
+            "account":{
+                "id":1,
+                "nodname":"CASH"
+            }
+        }, {
+            "id":2,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#1,ITEM#1",
+            "debit":0,
+            "credit":500,
+            "partner":{
+                "id":1,
+                "name":"PART#1"
+            },
+            "account":{
+                "id":2,
+                "nodname":"INCOME"
+            }     
+        }]
+    }, {
+        "id":2,
+        "version":0,
+        "active":"true",
+        "journalDate": "2013/07/18",
+        "number":"J02",
+        "memo":"JOUR#02",
+        "items":[{
+            "id":3,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#2, INCOME",
+            "debit":600,
+            "credit":0,
+            "partner":null,
+            "account":{
+                "id":1,
+                "nodname":"CASH"
+            }
+        }, {
+            "id":2,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#1,ITEM#1",
+            "debit":0,
+            "credit":600,
+            "partner":{
+                "id":1,
+                "name":"PART#1"
+            },
+            "account":{
+                "id":2,
+                "nodname":"INCOME"
+            }     
+        }]
+    }, {
+        "id":3,
+        "version":0,
+        "active":"true",
+        "journalDate": "2013/07/18",
+        "number":"J02",
+        "memo":"JOUR#02",
+        "items":[{
+            "id":3,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#2, INCOME",
+            "debit":600,
+            "credit":0,
+            "partner":null,
+            "account":{
+                "id":1,
+                "nodname":"CASH"
+            }
+        }, {
+            "id":2,
+            "version":0,
+            "active":"true",
+            "memo":"JOUR#1,ITEM#1",
+            "debit":0,
+            "credit":600,
+            "partner":{
+                "id":1,
+                "name":"PART#1"
+            },
+            "account":{
+                "id":2,
+                "nodname":"INCOME"
+            }     
+        }]
+    }]
+}
